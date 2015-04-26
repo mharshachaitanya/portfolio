@@ -1,0 +1,17 @@
+body {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #7477704;
+	font-weight:100;
+}
+.text-muted {
+	color: #BCBBBB
+}
+.text-thin {
+	font-weight: 100;
+}
+.title-super {
+ font-size: 60px;
+}
+.title-logo {
+	margin-top: 20px;
+}
